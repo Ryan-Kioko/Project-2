@@ -1,4 +1,4 @@
-# **Rasa Driven Movie Recommendation Chatbot & Facial Emotion Detection
+# **Rasa Driven Movie Recommendation Chatbot & Facial Emotion Detection**
 
 # Table of Contents
 
