@@ -87,5 +87,5 @@ Evaluation Metrics:
 Screenshots/Diagrams: [Add confusion matrix, loss/accuracy graphs, etc.]
 
 ## References
-FER-2013 Dataset: [Link]
-Rasa Documentation: [Link]
+- FER-2013 Dataset: [Link]
+- Rasa Documentation: [Link]
