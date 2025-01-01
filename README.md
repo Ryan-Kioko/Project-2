@@ -74,10 +74,18 @@ python test_model.py
 
 ## Results & Evaluation
 ### Part A: Rasa Chatbot
-Evaluation Metrics: [Add accuracy, F1-score, confusion matrix, etc.]
+Evaluation Metrics: 
+- Accuracy- 
+- F1-score- 
+- Confusion matrix-
 Screenshots/Diagrams: [Add dialog flow, training results, etc.]
 ### Part B: Facial Emotion Detection
-Evaluation Metrics: Precision, Recall, F-measure for each emotion category.
+Evaluation Metrics: 
+- Precision- 
+- Recall- 
+- F-measure for each emotion category-
 Screenshots/Diagrams: [Add confusion matrix, loss/accuracy graphs, etc.]
 
 ## References
+FER-2013 Dataset: [Link]
+Rasa Documentation: [Link]
