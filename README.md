@@ -1,7 +1,5 @@
 # **Rasa Driven Movie Recommendation Chatbot & Facial Emotion Detection**
 
-# Table of Contents
-
 ## Overview
 This project is divided into two parts:
 - Part A: Development of a level 2/3 conversational movie recommendation chatbot using Rasa, with datasets, intents, and actions
