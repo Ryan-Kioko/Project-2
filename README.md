@@ -17,7 +17,7 @@ The chatbot aims to provide intelligent conversational capabilities for providin
 - Custom intents, entities, and actions for the problem domain.
 - Training and validation using a custom dataset.
 - Designed with UML diagrams (use case, sequence, and activity diagrams).
-- Evaluation using metrics such as accuracy and F1-score.
+- Evaluation through testing
 ### Technologies Used
 - Framework: Rasa
 - Programming Language: Python
