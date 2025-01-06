@@ -42,5 +42,5 @@ The chatbot was tested multiple times and worked as per the expectations.
 Evaluation Metrics are accessible through the code.
 
 ## References
-- FER-2013 Dataset: [Link]
-- Rasa Documentation: [Link]
+- FER-2013 Dataset: https://www.kaggle.com/deadskull7/fer2013
+- Rasa Documentation: https://rasa.com/docs
