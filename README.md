@@ -22,23 +22,6 @@ The chatbot aims to provide intelligent conversational capabilities for providin
 - Framework: Rasa
 - Programming Language: Python
 - Tools: NLU, Rasa core
-### Setup & Usage
-```
-# Clone the repository
-git clone [repository link]
-
-# Navigate to the project directory
-cd chatbot
-
-# Install required dependencies
-pip install -r requirements.txt
-
-# Train the Rasa model
-rasa train
-
-# Start the chatbot
-rasa run actions & rasa shell
-``` 
 
 ## Part B: Facial Emotion Detection
 ### Descripton
