@@ -51,6 +51,7 @@ The emotion detection system uses the FER-2013 dataset to classify the emotions 
 - Framework: Opencv
 - Programming Language: Python
 - Dataset: FER-2013
+- 
 ### Setup & Usage
 ```
 # Clone the repository
@@ -88,4 +89,4 @@ Screenshots/Diagrams: [Add confusion matrix, loss/accuracy graphs, etc.]
 
 ## References
 - FER-2013 Dataset: https://www.kaggle.com/deadskull7/fer2013
-- Rasa Documentation: https://rasa.com/docs=
+- Rasa Documentation: https://rasa.com/docs
