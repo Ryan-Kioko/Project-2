@@ -1,0 +1,8 @@
+git add <"D:\Uni\Project Management Group Project\Project 2D24\2D24 Files\GroupDProject\actions">
+git add <"D:\Uni\Project Management Group Project\Project 2D24\2D24 Files\GroupDProject\models">
+git add <"D:\Uni\Project Management Group Project\Project 2D24\2D24 Files\GroupDProject\tests">
+git add <"D:\Uni\Project Management Group Project\Project 2D24\2D24 Files\GroupDProject\config.yml">
+git add <"D:\Uni\Project Management Group Project\Project 2D24\2D24 Files\GroupDProject\credentials.yml">
+git add <"D:\Uni\Project Management Group Project\Project 2D24\2D24 Files\GroupDProject\domain.yml">
+git add <"D:\Uni\Project Management Group Project\Project 2D24\2D24 Files\GroupDProject\endpoints.yml">
+git cmmit -m 'Added the chatbot files to the Rasa folder'
