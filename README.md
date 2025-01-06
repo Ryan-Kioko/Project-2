@@ -17,7 +17,7 @@ The chatbot aims to provide intelligent conversational capabilities for providin
 - Custom intents, entities, and actions for the problem domain.
 - Training and validation using a custom dataset.
 - Designed with UML diagrams (use case, sequence, and activity diagrams).
-- Evaluation using metrics such as accuracy and F1-score.
+- Evaluation through testing
 ### Technologies Used
 - Framework: Rasa
 - Programming Language: Python
@@ -75,17 +75,10 @@ python test_model.py
 
 ## Results & Evaluation
 ### Part A: Rasa Chatbot
-Evaluation Metrics: 
-- Accuracy- 
-- F1-score- 
-- Confusion matrix-
-Screenshots/Diagrams: [Add dialog flow, training results, etc.]
+
+
 ### Part B: Facial Emotion Detection
-Evaluation Metrics: 
-- Precision- 
-- Recall- 
-- F-measure for each emotion category-
-Screenshots/Diagrams: [Add confusion matrix, loss/accuracy graphs, etc.]
+Evaluation Metrics aare accessible through the code
 
 ## References
 - FER-2013 Dataset: https://www.kaggle.com/deadskull7/fer2013
