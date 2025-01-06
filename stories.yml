@@ -1,0 +1,74 @@
+version: "3.1"
+
+stories:
+  - story: recommend action movies
+    steps:
+      - intent: recommend_movies
+        entities:
+          - genre: action
+      - action: action_recommend_movies
+
+  - story: recommend comedy movies
+    steps:
+      - intent: recommend_movies
+        entities:
+          - genre: comedy
+      - action: action_recommend_movies
+
+  - story: recommend drama movies
+    steps:
+      - intent: recommend_movies
+        entities:
+          - genre: drama
+      - action: action_recommend_movies
+
+  - story: recommend romance movies
+    steps:
+      - intent: recommend_movies
+        entities:
+          - genre: romance
+      - action: action_recommend_movies
+
+  - story: recommend horror movies
+    steps:
+      - intent: recommend_movies
+        entities:
+          - genre: horror
+      - action: action_recommend_movies
+
+  - story: recommend thriller movies
+    steps:
+      - intent: recommend_movies
+        entities:
+          - genre: thriller
+      - action: action_recommend_movies
+
+  - story: recommend sci-fi movies
+    steps:
+      - intent: recommend_movies
+        entities:
+          - genre: sci-fi
+      - action: action_recommend_movies
+
+  - story: recommend adventure movies
+    steps:
+      - intent: recommend_movies
+        entities:
+          - genre: adventure
+      - action: action_recommend_movies
+
+  - story: recommend fantasy movies
+    steps:
+      - intent: recommend_movies
+        entities:
+          - genre: fantasy
+      - action: action_recommend_movies
+
+  - story: recommend animation movies
+    steps:
+      - intent: recommend_movies
+        entities:
+          - genre: animation
+      - action: action_recommend_movies
+
+  # Add more stories for other genres as needed...

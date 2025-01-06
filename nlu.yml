@@ -1,0 +1,30 @@
+version: "3.1"
+
+nlu:
+- intent: greet
+  examples: |
+    - Hi
+    - Hello
+    - Hey there
+    - Hi there
+    - Good morning
+
+- intent: recommend_movies
+  examples: |
+    - I like [action](genre) movies
+    - Recommend some [comedy](genre) movies
+    - I want to watch [romance](genre) movies
+
+- intent: goodbye
+  examples: |
+    - Goodbye
+    - See you later
+    - Bye
+    - Have a good day
+
+- intent: thank_you
+  examples: |
+    - Thanks
+    - Thank you
+    - Thanks a lot
+    - I appreciate it
