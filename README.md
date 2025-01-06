@@ -41,8 +41,8 @@ rasa run actions & rasa shell
 ``` 
 
 ## Part B: Facial Emotion Detection
-### Descripton
-The emotion detection system uses the FER-2013 dataset to clasify the emotions into distinct categories and is trained using deep learning.
+### Description
+The emotion detection system uses the FER-2013 dataset to classify the emotions into distinct categories and is trained using deep learning.
 ### Key Features
 - Image processing using the FER-2013 dataset converted to PNG format.
 - Emotion classification.
@@ -87,5 +87,5 @@ Evaluation Metrics:
 Screenshots/Diagrams: [Add confusion matrix, loss/accuracy graphs, etc.]
 
 ## References
-- FER-2013 Dataset: [Link]
-- Rasa Documentation: [Link]
+- FER-2013 Dataset: https://www.kaggle.com/deadskull7/fer2013
+- Rasa Documentation: https://rasa.com/docs=
