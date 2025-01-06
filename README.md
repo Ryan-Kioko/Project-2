@@ -22,23 +22,6 @@ The chatbot aims to provide intelligent conversational capabilities for providin
 - Framework: Rasa
 - Programming Language: Python
 - Tools: NLU, Rasa core
-### Setup & Usage
-```
-# Clone the repository
-git clone [repository link]
-
-# Navigate to the project directory
-cd chatbot
-
-# Install required dependencies
-pip install -r requirements.txt
-
-# Train the Rasa model
-rasa train
-
-# Start the chatbot
-rasa run actions & rasa shell
-``` 
 
 ## Part B: Facial Emotion Detection
 ### Description
@@ -51,31 +34,10 @@ The emotion detection system uses the FER-2013 dataset to classify the emotions 
 - Framework: Opencv
 - Programming Language: Python
 - Dataset: FER-2013
-- 
-### Setup & Usage
-```
-# Clone the repository
-git clone [repository link]
-
-# Navigate to the project directory
-cd facial-emotion-detection
-
-# Install required dependencies
-pip install -r requirements.txt
-
-# Convert FER-2013 CSV to PNG format
-python convert_dataset.py
-
-# Train the model
-python train_model.py
-
-# Test the model
-python test_model.py
-```
 
 ## Results & Evaluation
 ### Part A: Rasa Chatbot
-
+The chatbot was tested multiple times and worked as per the expectations.
 
 ### Part B: Facial Emotion Detection
 Evaluation Metrics aare accessible through the code
